@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... videogames, metal music,
 - 🌱 I’m currently learning ... The Odin Project Bootcamp
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... alicialopez1985@gmail.com
+- 📫 How to reach me ... 
 - 😄 Pronouns: ... she
 
 <!---
